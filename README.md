@@ -68,4 +68,4 @@ https://github.com/MysteriumNetwork/contracts/
 https://github.com/TokenMarketNet/ico/
 
 We express our deep gratitude to the developers of these projects without which there would
-not be a ziber voip.
+not be a ziber voip (ziber.io).
