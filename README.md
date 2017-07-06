@@ -63,9 +63,9 @@ Tests are written using `py.test` in tests folder.
 Not to reinvent the wheel, we decided to go the more correct way and use the 
 ready-made templates of ethereum smart contracts from the following projects:
 
-https://github.com/OpenZeppelin/zeppelin-solidity/
-https://github.com/MysteriumNetwork/contracts/                                                                           
-https://github.com/TokenMarketNet/ico/
+https://github.com/OpenZeppelin/zeppelin-solidity
+https://github.com/MysteriumNetwork/contracts                                                                           
+https://github.com/TokenMarketNet/ico
 
 We express our deep gratitude to the developers of these projects without which there would
 not be a ziber voip (ziber.io).
